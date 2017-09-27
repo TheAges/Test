@@ -1,2 +1,2 @@
 # Test
-only another Test
+Just another Test
